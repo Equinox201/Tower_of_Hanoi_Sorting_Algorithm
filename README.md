@@ -1,7 +1,7 @@
 # Tower of Hanoi - Sorting Algo
 
 <p align="center">
-  <img src="./assets/push_logo.png" alt="project badge"/>
+  <img src="./assets/pushswap.png" alt="project badge"/>
 </p>
 
 ## Overview
